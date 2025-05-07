@@ -138,7 +138,7 @@ endpoints:
           ]
         fetch: true
       titleConvo: true
-      titleModel: "current_model"
+      titleModel: "qwen3-30b-a3b-nothink-mlx"
       summarize: false
       summaryModel: "current_model"
       modelDisplayLabel: 'local'
