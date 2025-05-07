@@ -24,6 +24,7 @@ interface:
   bookmarks: true
   multiConvo: true
   agents: true
+  runCode: false
 
 # Example Registration Object Structure (optional)
 registration:
