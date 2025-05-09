@@ -131,7 +131,7 @@ endpoints:
   custom:
     - name: 'local'
       apiKey: 'a'
-      baseURL: 'http://10.10.199.29:8080/v1'
+      baseURL: 'https://ai-proxy-high.butler.ooo/v1'
       models:
         default:
           [
